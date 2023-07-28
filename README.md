@@ -6,3 +6,5 @@ this tutroial focuses mainly on git and using github as it"s remote
 This repository is built step by step in the tutorial.
 
 It know includes steps for Git Hub
+
+majahar mahidi good night and happy journary
